@@ -1,0 +1,22 @@
+{
+  "trainingProfiles":[
+    {
+      "signatures":[
+        {
+          "strokes":[
+            {
+              "startTime":1522413479195,
+              "stopTime":1522413479685
+            },
+            {
+              "startTime":1522413479808,
+              "stopTime":1522413480133
+            }
+          ],
+          "filename":"sign_1522413480783.png"
+        }
+      ],
+      "title":"César"
+    },
+  ]
+}
